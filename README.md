@@ -1,4 +1,5 @@
-# Python Calculator CI Practice
+# Python Calculator CI Practice 
+[![CircleCI](https://circleci.com/gh/cv47522/python-calculator.svg?style=shield)](https://circleci.com/gh/cv47522/python-calculator)
 
 ## Tools
 
